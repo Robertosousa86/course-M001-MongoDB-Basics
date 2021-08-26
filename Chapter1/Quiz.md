@@ -1,4 +1,4 @@
-# Quiz
+# Quiz: What is mongoDB?
 
 ## Proplem:
 ### Why is MongoDB a NoSQL database?

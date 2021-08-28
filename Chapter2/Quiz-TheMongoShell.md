@@ -1,4 +1,4 @@
-# Quiz: The mongo shel
+# Quiz: The mongo shell
 
 ## Problem:
 - Which of the following statements are true about the mongo shell?

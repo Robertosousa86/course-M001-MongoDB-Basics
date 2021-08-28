@@ -1,7 +1,7 @@
 # Quiz: What is Atlas?
 
 ## Problem:
-### How is MongoDB Atlas related to MongoDB the Database?
+- How is MongoDB Atlas related to MongoDB the Database??
 
 ## Answers
 

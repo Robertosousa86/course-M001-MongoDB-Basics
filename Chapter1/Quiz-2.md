@@ -1,7 +1,7 @@
 # Quiz 2: What is a Document?
 
 ## Prolem
-### In MongoDB how does a document relate to a collection?
+- In MongoDB how does a document relate to a collection?
 
 ## Answer
 

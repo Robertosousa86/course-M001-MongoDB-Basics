@@ -1,7 +1,7 @@
 # Quiz 3: What is a Document?
 
 ## Problem:
-### In a MongoDB Document what is the role of fields and values?
+- In a MongoDB Document what is the role of fields and values?
 
 ## Answers
 

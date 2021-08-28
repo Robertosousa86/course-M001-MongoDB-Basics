@@ -1,7 +1,7 @@
 # Quiz 1: What is the MongoDB Database?
 
 ## Problem:
-### Select the statements that together help build the most complete definition of the MongoDB database:
+- Select the statements that together help build the most complete definition of the MongoDB database:
 
 ## Answers
 

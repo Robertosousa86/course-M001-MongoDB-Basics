@@ -5,8 +5,8 @@
 
 ## Answer
 
-- MongoDB stores data in **BSON**, and you can then view it JSON.
+**_MongoDB stores data in **BSON**, and you can then view it JSON._**
 
-- **BSON** is faster to parse and lighter to store than JSON.
+**_**BSON** is faster to parse and lighter to store than JSON._**
 
-- **JSON** supports fewer data types than BSON.
+**_**JSON** supports fewer data types than BSON._**

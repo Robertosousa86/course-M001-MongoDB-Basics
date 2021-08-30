@@ -5,10 +5,10 @@
 
 ## Answers
 
-- MongoDB database is an organized way to store and access data.
+**_MongoDB database is an organized way to store and access data._**
 
 This is a general definition of a database and applies to the MongoDB database as well as to other databases out there.
 
-- MongoDB is a NoSQL database that uses documents to store data in an organized way.
+**_MongoDB is a NoSQL database that uses documents to store data in an organized way._**
 
 When we specify what kind of database MongoDB has, we can classify it as NoSQL because it does not employ related tables of data to store information, and it instead uses documents.

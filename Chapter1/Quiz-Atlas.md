@@ -5,11 +5,11 @@
 
 ## Answers
 
-- They are both MongoDB products.
+**_They are both MongoDB products._**
 
 Atlas has many tools and services within it that are built specifically for the MongoDB Database.
 
-- MongoDB Database has the same functionality as Atlas, but without the friendly user interface.
+**_MongoDB Database has the same functionality as Atlas, but without the friendly user interface._**
 
 Atlas features go beyond the functionality of organizing and storing data, examples are Charts, Realm, Security features and more.
 

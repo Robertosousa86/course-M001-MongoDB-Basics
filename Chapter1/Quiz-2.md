@@ -5,6 +5,6 @@
 
 ## Answer
 
-- Collections consist of many documents.
+**_Collections consist of many documents._**
 
 A single collection in MongoDB consists of one or many documents.

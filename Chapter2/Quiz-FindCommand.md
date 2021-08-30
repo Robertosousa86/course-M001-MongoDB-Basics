@@ -5,7 +5,7 @@
 
 ## Answer
 
-- Iterates through the cursor results
+**_Iterates through the cursor results_**
 
 ```dos
 The rest of the options are silly.

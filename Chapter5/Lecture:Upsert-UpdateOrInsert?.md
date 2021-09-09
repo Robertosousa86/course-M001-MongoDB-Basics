@@ -1,6 +1,6 @@
 # Lecture: Upsert - Update or Insert?
 
- ***Obs*** 
+ ***Obs***: 
 **Upsert is  a hybrid of update and insert, it should only be used when it is needed**
 
 - Commands used in this lesson:
